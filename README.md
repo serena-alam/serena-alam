@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serena-alam
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...kayaking, writing, and traveling
 - 🌱 I’m currently learning ...HTML, CSS, Javasript, and jquery
 - 💞️ I’m looking to collaborate on ...websites
 - 📫 How to reach me ...serena.alam90@gmail.com
